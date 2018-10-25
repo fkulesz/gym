@@ -285,6 +285,7 @@ input:-webkit-autofill:focus {
 .area-title h2 {
     line-height: 1;
     margin-bottom: 30px;
+    margin-top: 10px;
     padding-bottom: 20px;
     position: relative;
 }
@@ -465,6 +466,7 @@ ul#nav li a {
     transition: all 0.3s ease 0s;
 }
 
+
 ul#nav li a:hover,
 ul#nav li.active a {
     color: #38b6ff;
@@ -556,6 +558,9 @@ ul#nav li ul a,
 
 .slide-bg-two {
     background: rgba(0, 0, 0, 0) url("img/slider/slide_2.jpg") no-repeat scroll center center / cover;
+}
+.slide-bg-three {
+    background: rgba(0, 0, 0, 0) url("img/slider/slide_3.jpg") no-repeat scroll center center / cover;
 }
 
 
